@@ -5,7 +5,8 @@
 
 I am a front-end developer with industry experience building websites passionate about bringing clients’ visions to life. I specialize in creating beautiful, useable, and professional websites using best practice accessibility and the latest w3c web standard guideline, resulting in semantic and SEO-friendly HTML and CSS. All of my sites are lovingly hand-coded. I can assure you that I am a real hard worker for Quality, passionate, extremely enthusiastic, and great with a specific deadline. I feel confident my skills and experience make me the perfect candidate.
 
-Skills and Experience: HTML / CSS/JAVASCRIPT/BOOTSTRAP
+<h5>Skills and Experience:</h5>
+HTML/CSS/JAVASCRIPT/BOOTSTRAP
 
  🔭 I’m currently working on Micro Web Technology and Seba Automation company. 
  🌱 I’m currently learning React. 
