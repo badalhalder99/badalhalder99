@@ -1,11 +1,11 @@
 ![Front End Developer](https://scontent.fdac1-1.fna.fbcdn.net/v/t39.30808-6/295681406_1672010153180615_2586133510734626942_n.png?stp=dst-png_s960x960&_nc_cat=109&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeGdCsYQp37k-U2QAfCnGj2-cLb_UX5nmMxwtv9RfmeYzAcQ6YfF98x_TrzJcZprDAFJEvSAC8xkHxp-sxVoqpbM&_nc_ohc=ajUxxPLQkjsAX9GM2yF&tn=eH_KeRJoIOJzQ7UG&_nc_zt=23&_nc_ht=scontent.fdac1-1.fna&oh=00_AT9YfLAQ59C9ty-Qcf_SMlMluXR1OpF00-VYoGitAnWDgQ&oe=62E332D8)
 
-### Hi there 👋, I'm Badal Chandra Halder
+## Hi, I'm Badal Chandra Halder 👋
 #### Front End Developer
 
 I am a front-end developer with industry experience building websites passionate about bringing clients’ visions to life. I specialize in creating beautiful, useable, and professional websites using best practice accessibility and the latest w3c web standard guideline, resulting in semantic and SEO-friendly HTML and CSS. All of my sites are lovingly hand-coded. I can assure you that I am a real hard worker for Quality, passionate, extremely enthusiastic, and great with a specific deadline. I feel confident my skills and experience make me the perfect candidate.
 
-Skills: HTML / CSS/JAVASCRIPT/BOOTSTRAP
+Skills and Experience: HTML / CSS/JAVASCRIPT/BOOTSTRAP
 
 - 🔭 I’m currently working on Micro Web Technology and Seba Automation company. 
 - 🌱 I’m currently learning React. 
