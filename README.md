@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/k1kq5jR/download.jpg" alt="badalhalder99" align='center' />
+<img src="https://ibb.co/bNBg7R1"><img src="https://i.ibb.co/r56Gvfk/46282201659.png" alt="badalhalder99" align='center' />
 <h1 align="left">👋 Hello, I'm Badal Halder</h1>
 <h3 align="left">Front End Developer</h3>
 
