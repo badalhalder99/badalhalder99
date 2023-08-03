@@ -1,6 +1,6 @@
 <img src="https://media.licdn.com/dms/image/D4D16AQGRRcxPtHyN0g/profile-displaybackgroundimage-shrink_200_800/0/1666337559172?e=2147483647&v=beta&t=BbJEKDHYotTpJ1rkzW-fMCdVqXlJ23RAjhT_5uKVAZg" alt="badalhalder99" align='center' />
-<h1 align="center">👋 Hello, I'm Badal Halder</h1>
-<h3 align="center">Front End Developer</h3>
+<h1 align="left">👋 Hello, I'm Badal Halder</h1>
+<h3 align="left">Front End Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=badalhalder99&label=Profile%20views&color=0e75b6&style=flat" alt="badalhalder99" /> </p>
 
