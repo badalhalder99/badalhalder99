@@ -1,3 +1,4 @@
+<img src="https://media.licdn.com/dms/image/D4D16AQGRRcxPtHyN0g/profile-displaybackgroundimage-shrink_200_800/0/1666337559172?e=2147483647&v=beta&t=BbJEKDHYotTpJ1rkzW-fMCdVqXlJ23RAjhT_5uKVAZg" alt="badalhalder99" align='center' />
 <h1 align="center">👋 Hello, I'm Badal Halder</h1>
 <h3 align="center">Front End Developer</h3>
 
@@ -14,6 +15,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in//in/badol/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/badol/" height="30" width="40" /></a>
-<a href="https://fb.com/badal.barma.754/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="badal.barma.754/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in//in/badol/" target="blank"><img align="center" src="https://raw.githubusercontent.com/anisul-Islam/anisul-islam/master/images/linkedin.svg" alt="/in/badol/" height="40" width="40" /></a>
+<a href="https://fb.com/badal.barma.754/" target="blank"><img align="center" src="https://raw.githubusercontent.com/anisul-Islam/anisul-islam/master/images/facebook.svg" alt="badal.barma.754/" height="45" width="45" /></a>
 </p>
