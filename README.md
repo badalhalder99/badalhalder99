@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=badalhalder99&label=Profile%20views&color=0e75b6&style=flat" alt="badalhalder99" /> </p>
 
 <h3 align="left">About Me:</h3>
-<p align="left">I am a full-time Front End Developer skilled in HTML, CSS, JavaScript, Bootstrap, React, and Redux. Passionate about creating user-friendly interfaces and staying updated with the latest web technologies. Currently working at Micro Web Technology(Dhaka,BAngladesh). I am improving my web development skills. Every day I want to learn something new and share my knowledge with my students and others.</p>
+<p align="left">I am a full-time Front End Developer skilled in HTML, CSS, JavaScript, Bootstrap, React, and Redux. Passionate about creating user-friendly interfaces and staying updated with the latest web technologies. Currently working at Micro Web Technology (Dhaka, Bangladesh). I am improving my web development skills. Every day I want to learn something new and share my knowledge with my students and others.</p>
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in//in/badol/" target="blank"><img align="center" src="https://raw.githubusercontent.com/anisul-Islam/anisul-islam/master/images/linkedin.svg" alt="/in/badol/" height="40" width="40" /></a>
 <a href="https://fb.com/badal.barma.754/" target="blank"><img align="center" src="https://raw.githubusercontent.com/anisul-Islam/anisul-islam/master/images/facebook.svg" alt="badal.barma.754/" height="45" width="45" /></a>
