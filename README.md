@@ -169,7 +169,7 @@ Brand management and marketing platform.
 | 📧 Email | [badalchandrahalder99@gmail.com](mailto:badalchandrahalder99@gmail.com) |
 | 📱 Phone | +8801789901789 |
 | 📝 Medium | [@badalchandrahalder99](https://medium.com/@badalchandrahalder99) |
-| 🌐 Portfolio | [https://badolportfolio.vercel.app/] |
+| 🌐 Portfolio | https://badolportfolio.vercel.app/ |
 | 📍 Location | Dhaka, Bangladesh |
 
 </div>
