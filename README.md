@@ -126,7 +126,7 @@ Brand management and marketing platform.
 - [How to Create a Loading Spinner using ReactJS and Vanilla CSS](https://medium.com/@badalchandrahalder99/how-to-create-a-loading-spinner-using-reactjs-and-vanilla-css-956e64264130)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [Read more articles on Medium](https://medium.com/@badalchandrahalder99)
+ [Read more articles on Medium](https://medium.com/@badalchandrahalder99)
 
 ---
 
