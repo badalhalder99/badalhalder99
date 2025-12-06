@@ -165,7 +165,7 @@ Brand management and marketing platform.
 
 | Platform | Link |
 |----------|------|
-| 💼 LinkedIn | [linkedin.com/in/badal](https://linkedin.com/in/badol/) |
+| 💼 LinkedIn | [linkedin.com/in/badol](https://linkedin.com/in/badol/) |
 | 📧 Email | [badalchandrahalder99@gmail.com](mailto:badalchandrahalder99@gmail.com) |
 | 📱 Phone | +8801789901789 |
 | 📝 Medium | [@badalchandrahalder99](https://medium.com/@badalchandrahalder99) |
