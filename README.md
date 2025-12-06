@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/badal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/badol/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/badalhalder99"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://medium.com/@badalchandrahalder99"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
   <a href="mailto:badalchandrahalder99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -92,7 +92,7 @@ I'm passionate about **building scalable web platforms**, crafting powerful deve
 
 ## 🚀 Featured Projects
 
-### 🛍️ [ABMOR (Ecommerce)](https://abmor.com)
+### 🛍️ [ABMOR (Ecommerce)](https://abmor.org)
 A sourcing platform connecting fashion brands with verified apparel manufacturers across Asia.
 - **Tech Stack:** Next.js, Tailwind CSS, Express.js, MongoDB
 - **Features:** Brand discovery, manufacturer verification, seamless connection platform
@@ -165,11 +165,11 @@ Brand management and marketing platform.
 
 | Platform | Link |
 |----------|------|
-| 💼 LinkedIn | [linkedin.com/in/badal](https://linkedin.com/in/badal/) |
+| 💼 LinkedIn | [linkedin.com/in/badal](https://linkedin.com/in/badol/) |
 | 📧 Email | [badalchandrahalder99@gmail.com](mailto:badalchandrahalder99@gmail.com) |
 | 📱 Phone | +8801789901789 |
 | 📝 Medium | [@badalchandrahalder99](https://medium.com/@badalchandrahalder99) |
-| 🌐 Portfolio | [Your Portfolio URL] |
+| 🌐 Portfolio | [https://badolportfolio.vercel.app/] |
 | 📍 Location | Dhaka, Bangladesh |
 
 </div>
